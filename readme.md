@@ -63,7 +63,7 @@
 ## 将本地仓库与远程仓库关联
 - git remote add origin https://github.com/HeJiaYue520/GP5.git (你的远程仓库地址)
 - git remote -v 查看本地仓库关联的远程仓库地址
-阿飞
+何嘉悦
 
 ##其和他说 
 
