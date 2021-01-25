@@ -38,4 +38,10 @@
 - 将代码从暂存区提交到本地仓库
 - git status 查看状态提示：工作区是干净的，没有任何东西要提交
 
+## 本地操作的关键步骤
+1. git init
+2. git add.
+3. git commit -m '提示文字'
+4. git status 查看状态
+
 
