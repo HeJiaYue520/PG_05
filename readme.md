@@ -33,15 +33,25 @@
 - git status
 - 查看工作区和暂存区的状态（增删改）
 
-## 提交到本地仓库
-- git commit -m '提交注释'（注释对后面查询版本很有帮助）
-- 将代码从暂存区提交到本地仓库
-- git status 查看状态提示：工作区是干净的，没有任何东西要提交
-
 ## 本地操作的关键步骤
 1. git init
 2. git add.
 3. git commit -m '提示文字'
 4. git status 查看状态
+
+## 提交到本地仓库
+- git commit -m '提交注释'（注释对后面查询版本很有帮助）
+- 将代码从暂存区提交到本地仓库
+- git status 查看状态提示：工作区是干净的，没有任何东西要提交
+
+## 查看日志
+- git log     完整版日志
+- git relfog  简单版日志
+
+## 版本回退
+- git reset --hard HEAD^  回退到上一个版本
+- git reset --hard 版本号(查看日志的版本号)
+
+
 
 
