@@ -52,6 +52,16 @@
 - git reset --hard HEAD^  回退到上一个版本
 - git reset --hard 版本号(查看日志的版本号)
 
+## 查看变动
+- git diff 文件名
+- 会列出该文件前后的差异
 
+## 创建远程仓库
+- 进入 github官网
+- 创建一个新的远程从仓库
+
+## 将本地仓库与远程仓库关联
+- git remote add origin https://github.com/HeJiaYue520/GP5.git (你的远程仓库地址)
+- git remote -v 查看本地仓库关联的远程仓库地址
 
 
